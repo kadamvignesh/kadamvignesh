@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I am Vignesh Kadam</h1>
-<h3 align="center">A passionate DevOps Engineer experienced in DevOps and cloud-based technologies</h3>
+<h3 align="center">A passionate DevOps Engineer, I mostly have experience in DevOps and cloud-based technologies</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
