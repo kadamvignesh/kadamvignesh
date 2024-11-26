@@ -68,6 +68,7 @@
 
 ---> 
 
+<!--
 <h3 align="left">💻 Featured Projects:</h3>
 <ul>
    <li>
@@ -80,6 +81,7 @@
       <strong>Netflix Clone:</strong> Deployed a frontend Netflix clone application using AWS services for hosting.
    </li>
 </ul>
+--> 
 
 ---
 
