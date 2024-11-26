@@ -12,7 +12,7 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
            alt="LinkedIn Profile" height="50" width="50" />
    </a>
-   <a href="https://hashnode.com/@kadamvignesh" target="blank">
+   <a href="https://www.hashnode.com/@kadamvignesh" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" 
            alt="Hashnode Blog" height="30" width="40" />
    </a>
