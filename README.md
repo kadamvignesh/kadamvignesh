@@ -23,7 +23,7 @@
 <h3 align="left">🛠️ My Tech-stack:</h3>
 <p align="left">
    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://www.yessinfotech.com/wp-content/uploads/2024/03/AWS-logo-png.jpg" alt="AWS" width="60" height="60" />
+      <img src="https://i0.wp.com/amach.com/wp-content/uploads/2023/10/aww-logo-blue-background.png?resize=1024%2C1024&ssl=1" alt="AWS" width="60" height="60" />
    </a>
    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img src="https://bashlogo.com/img/logo/jpg/full_colored_light.jpg" alt="Bash" width="60" height="60" />
