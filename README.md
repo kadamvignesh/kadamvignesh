@@ -58,7 +58,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=kadamvignesh&show_icons=true&theme=radical" alt="GitHub Stats" width="500" />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadamvignesh&theme=radical" alt="GitHub Streak" width="500" />
 </p>
-
+--->
 ---
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
@@ -66,7 +66,6 @@
    <img src="https://github-profile-trophy.vercel.app/?username=kadamvignesh&theme=onedark" alt="GitHub Trophies" />
 </p>
 
----> 
 
 <!--
 <h3 align="left">💻 Featured Projects:</h3>
