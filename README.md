@@ -37,6 +37,9 @@
    <a href="https://grafana.com" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="60" height="60" />
    </a>
+    <a href="https://terraform.com" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/terraform/terraform-icon.svg" alt="terraform" width="60" height="60" />
+   </a>
    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="60" height="60" />
    </a>
