@@ -58,15 +58,15 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="500" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" width="500" />
+   <img src="https://github-readme-stats.vercel.app/api?username=kadamvignesh&show_icons=true&theme=radical" alt="GitHub Stats" width="500" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadamvignesh&theme=radical" alt="GitHub Streak" width="500" />
 </p>
 
 ---
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark" alt="GitHub Trophies" />
+   <img src="https://github-profile-trophy.vercel.app/?username=kadamvignesh&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 ---
