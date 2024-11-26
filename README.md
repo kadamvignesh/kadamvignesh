@@ -14,7 +14,7 @@
    </a>
    <a href="https://www.hashnode.com/@kadamvignesh" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" 
-           alt="Hashnode Blog" height="30" width="40" />
+           alt="Hashnode Blog" height="50" width="50" />
    </a>
 </p>
 
