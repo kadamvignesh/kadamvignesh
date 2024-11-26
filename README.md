@@ -37,6 +37,9 @@
    <a href="https://grafana.com" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="60" height="60" />
    </a>
+   <a href="https://prometheus.com" target="_blank" rel="noreferrer">
+      <img src="https://i0.wp.com/codeblog.dotsandbrackets.com/wp-content/uploads/2017/01/prometheus-logo.jpg?ssl=1" alt="Grafana" width="60" height="60" />
+   </a>
     <a href="https://terraform.com" target="_blank" rel="noreferrer">
       <img src="https://www.svgrepo.com/show/376353/terraform.svg" alt="terraform" width="60" height="60" />
    </a>
