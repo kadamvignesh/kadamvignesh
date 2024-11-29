@@ -3,7 +3,7 @@
 --> 
 
 <h1 align="center">Hello 👋, I am Vignesh Kadam</h1> 
-<div align="center"> <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/08/30161708/DevOps-min-min.gif"> </div>
+<div align="center"> <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/08/30161708/DevOps-min-min.gif"> alt="banner" height="300"</div>
 
 <h3 align="center">A passionate DevOps Engineer, I mostly have experience in DevOps and cloud-based technologies</h3>
 
