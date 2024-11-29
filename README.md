@@ -13,19 +13,6 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-   <a href="https://www.linkedin.com/in/vigneshkadam/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-           alt="LinkedIn Profile" height="50" width="50" />
-   </a>
-   <a href="https://www.hashnode.com/@kadamvignesh" target="blank">
-      <img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622109774434/Zf3x9cdPq.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" 
-           alt="Hashnode Blog" height="50" width="120" />
-   </a>
-</p>
-
----
 
 <h3 align="left">🛠️ My Tech-stack:</h3>
 <p align="left">
@@ -64,6 +51,20 @@
    </a>
 </p>
 
+
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+   <a href="https://www.linkedin.com/in/vigneshkadam/" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+           alt="LinkedIn Profile" height="50" width="50" />
+   </a>
+   <a href="https://www.hashnode.com/@kadamvignesh" target="blank">
+      <img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622109774434/Zf3x9cdPq.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" 
+           alt="Hashnode Blog" height="50" width="120" />
+   </a>
+</p>
 ---
 
 <!-- <h3 align="left">📊 GitHub Stats:</h3>
