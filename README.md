@@ -3,7 +3,7 @@
 --> 
 
 <h1 align="center">Hello 👋, I am Vignesh Kadam</h1> 
-<div align="center"> <img img src="https://c8.alamy.com/comp/2RB9K9M/devops-banner-web-icon-vector-illustration-concept-for-software-engineering-and-development-with-an-icon-of-a-plan-code-build-test-release-deploy-2RB9K9M.jpg" 
+<div align="center"> <img img src="https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835110.jpg" 
          alt="banner" width="600" height="300" </div>
 
 <h3 align="center">A passionate DevOps Engineer, I mostly have experience in DevOps and cloud-based technologies</h3>
