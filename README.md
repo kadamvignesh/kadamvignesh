@@ -106,6 +106,6 @@
 ---
 
 <p align="center">
-   Thank you for visiting! 😊 Let's connect and build amazing projects together!
+   Thank you for visiting! 😊 
 </p>
 
