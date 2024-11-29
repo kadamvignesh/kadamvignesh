@@ -2,8 +2,8 @@
 <img align="right" alt="coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/08/30161708/DevOps-min-min.gif">
 --> 
 
-<h1 align="center">Hello 👋, I am Vignesh Kadam</h1>
-<img align="right" alt="coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/08/30161708/DevOps-min-min.gif">
+<h1 align="center">Hello 👋, I am Vignesh Kadam</h1> <br>
+<img align="right" alt="coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/08/30161708/DevOps-min-min.gif"> <br>
 
 <h3 align="center">A passionate DevOps Engineer, I mostly have experience in DevOps and cloud-based technologies</h3>
 
