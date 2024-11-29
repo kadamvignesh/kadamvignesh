@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello 👋, I am Vignesh Kadam</h1> 
 <div align="center"> <img img src="https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835110.jpg" 
-         alt="banner" width="600" height="300" </div>
+         alt="banner" width="750" height="300" </div>
 
 <h3 align="center">A passionate DevOps Engineer, I mostly have experience in DevOps and cloud-based technologies</h3>
 
