@@ -6,7 +6,7 @@
 <div align="center"> <img img src="https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835110.jpg" 
          alt="banner" width="700" height="300" </div>
 
-<h3 align="center">A passionate DevOps Engineer, I mostly have experience in DevOps and cloud-based technologies</h3>
+<h3 align="center">A passionate DevOps Engineer, I have experience in DevOps and cloud-based technologies</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif">
 
