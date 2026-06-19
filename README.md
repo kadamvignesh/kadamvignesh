@@ -16,8 +16,8 @@
 
 <h3 align="left">🛠️ My Tech-stack:</h3>
 <p align="left">
-   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://i0.wp.com/amach.com/wp-content/uploads/2023/10/aww-logo-blue-background.png?resize=1024%2C1024&ssl=1" alt="AWS" width="60" height="60" />
+   <a href="https://azure.microsoft.com/en-in " target="_blank" rel="noreferrer">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhr0Xk0Vf3IinPQaHYGImULV8tCM_3Lkop-w&s" alt="Azure" width="60" height="60" />
    </a>
    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img src="https://bashlogo.com/img/logo/jpg/full_colored_light.jpg" alt="Bash" width="60" height="60" />
@@ -54,8 +54,8 @@
 
          
    <a href="https://www.youtube.com/@DeploywithCloud" target="blank">
-      <img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622109774434/Zf3x9cdPq.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" 
-           alt="Hashnode Blog" height="50" width="120" />
+      <img align="center" src="https://www.gstatic.com/marketing-cms/assets/images/08/25/fffdc76145f28be3a1ca63859c4a/external-logo-core-1.png=n-w1860-h1047-fcrop64=1,00000000ffffffff-rw" 
+           alt="YouTube" height="50" width="120" />
    </a>
 </p>
 ---
