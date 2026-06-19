@@ -3,7 +3,7 @@
 --> 
 
 <h1 align="center">Hello 👋, I am Vignesh Kadam</h1> 
-<div align="center"> <img img src="https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835110.jpg" 
+<div align="center"> <img img src="https://www.influentialsoftware.com/wp-content/uploads/2024/01/cloud-storage-background-business-network-design.jpg" 
          alt="banner" width="700" height="300" </div>
 
 <h3 align="center">    Azure Cloud Engineer | AZ-900 Certified | Building Real-World Azure Projects | Linux | Networking | Cloud Infrastructure  </h3>
@@ -28,27 +28,18 @@
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60" />
    </a>
-   <a href="https://grafana.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="60" height="60" />
+   <a href="https://datadog.com" target="_blank" rel="noreferrer">
+      <img src="https://corp.dd-static.net/img/about/presskit/logo-v/dd_vertical_white.png?auto=format&fit=max&w=847&dpr=2" alt="Datadog" width="60" height="60" />
    </a>
-   <a href="https://prometheus.com" target="_blank" rel="noreferrer">
-      <img src="https://i0.wp.com/codeblog.dotsandbrackets.com/wp-content/uploads/2017/01/prometheus-logo.jpg?ssl=1" alt="Grafana" width="60" height="60" />
-   </a>
-    <a href="https://terraform.com" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/376353/terraform.svg" alt="terraform" width="60" height="60" />
-   </a>
+
    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="60" height="60" />
    </a>
-   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="60" height="60" />
-   </a>
+ 
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60" />
    </a>
-   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" />
-   </a>
+
 </p>
 
 
