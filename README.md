@@ -6,7 +6,7 @@
 <div align="center"> <img img src="https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835110.jpg" 
          alt="banner" width="700" height="300" </div>
 
-<h3 align="center">A passionate DevOps Engineer, I have experience in DevOps and cloud-based technologies</h3>
+<h3 align="center">    Azure Cloud Engineer | AZ-900 Certified | Building Real-World Azure Projects | Linux | Networking | Cloud Infrastructure  </h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif">
 
@@ -62,7 +62,7 @@
    </a>
 
          
-   <a href="https://www.hashnode.com/@kadamvignesh" target="blank">
+   <a href="https://www.youtube.com/@DeploywithCloud" target="blank">
       <img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622109774434/Zf3x9cdPq.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" 
            alt="Hashnode Blog" height="50" width="120" />
    </a>
